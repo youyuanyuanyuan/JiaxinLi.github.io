@@ -4,7 +4,7 @@
 
 
 
--[Final Project](finalProject.md) 
+-[Final Project](final.md) 
 
 -[Me, My Data](Mydata.md) 
 
