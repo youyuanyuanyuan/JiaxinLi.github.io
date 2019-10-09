@@ -3,5 +3,5 @@
 
 
 [Final Project](finalProject.html) 
-[Me, My Data](My Data.html) 
+[Me, My Data](Mydata.html) 
 [Installation sets for strangers](first.html) 
