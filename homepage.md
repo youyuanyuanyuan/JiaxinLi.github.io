@@ -1,4 +1,4 @@
-1. List item one.
+##1. List item one.
 +
 List item one continued with a second paragraph followed by an
 Indented block.
