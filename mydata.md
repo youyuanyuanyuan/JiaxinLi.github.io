@@ -1,5 +1,6 @@
 
-    #Me, My Data
+Me, My Data
+---
       
 I believe life is sometimes just like water, it keeps growing...growing...  until we meet our end, the sea, where all of growned people getting togetherhappily, hopefully, waiting to welcome new people to our final heaven. 
        
@@ -18,7 +19,7 @@ People's answers are actually long and pointless, I can tell the most of them ne
  Here comes my second product for project "Me, My data". This one is in a poster size 
   
   
-    ![product2](poster.jpg)
+   ![product1](poster.jpg)
   
 In this poster, I tried to combine what I have findouts to a strong style in order to achieve an overall harmony in both logical and visual aspects. 
        
