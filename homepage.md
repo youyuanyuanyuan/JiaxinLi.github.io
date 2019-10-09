@@ -1,3 +1,9 @@
-#二、直接上传文件，并形成.md格式的文档
+#Jiaxin Li
 
-###.md格式的文件可以在浏览器中直接看,而且排版也很漂亮
+##Major Studio Documentation 2019/fall
+    
+         [Final Project](finalProject.html)
+       *
+       [Me, My Data](My Data.html)
+       *
+       [Installation sets for strangers](My Data.html)
