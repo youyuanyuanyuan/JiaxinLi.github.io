@@ -6,7 +6,7 @@
 
 -[Final Project](final.md) 
 
--[Me, My Data](Mydata.md) 
+-[Me, My Data](mydata.md) 
 
 -[Installation sets for strangers](first.md) 
 
