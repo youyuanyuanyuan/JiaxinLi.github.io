@@ -1,16 +1,3 @@
-##1. List item one.
-+
-List item one continued with a second paragraph followed by an
-Indented block.
-+
-.................
-$ ls *.sh
-$ mv *.sh ~/tmp
-.................
-+
-List item continued with a third paragraph.
+#二、直接上传文件，并形成.md格式的文档
 
-2. List item two continued with an open block.
-+
---
-This paragraph is part of the preceding list item.
+###.md格式的文件可以在浏览器中直接看,而且排版也很漂亮
