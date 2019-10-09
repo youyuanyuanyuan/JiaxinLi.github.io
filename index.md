@@ -4,9 +4,9 @@
 
 
 
--[Final Project](finalProject.html) 
+-[Final Project](finalProject.md) 
 
--[Me, My Data](Mydata.html) 
+-[Me, My Data](Mydata.md) 
 
--[Installation sets for strangers](first.html) 
+-[Installation sets for strangers](first.md) 
 
