@@ -18,7 +18,9 @@ After did the brainstorm, I believe to find out people's activities area is the 
 
 After all the researches, I have found that there are lots children in this place, maybe I could do something more catoon and joyful for them to generate interactions.So I decided to do a photoplate for them to taking pictures with:
 ![plate1](common_plate1.jpg)
+
 and put it outside:
+
 ![plate2](common_plate3.jpg)
 
 However, people interacted with this set just under my expectation, I think that is because my targeted user: all the childrens are locked in their room doing homework and cannot get out at weekdays' evening.
@@ -56,7 +58,7 @@ I completely discarded the previous prototype, did a brand new one, that both of
 In this process, I made the ballons first, and then the bottom box. the ballons looks great at first, clean and clear in a really "cloudy" shape.
   
 ![44](goodstatus2.JPG)
- ![55](goodstatus1.JPG)
+![55](goodstatus1.JPG)
 
 The process of form ballons together to looks like cloud is really a time-consuming thing, and we have to be survillance of perturb ballon to fly away. Actually I fall down several times when using chair as ladder to reach flyaway ballons.
    
@@ -70,14 +72,13 @@ but as the time goes by, in just about 1 hour, ballons fall down because of less
     
    When we doing on-site, the wind was strong so we have to shorten the wire and put the box aside the path in case the balloon were blown slanting getting in the way of visitors.
 
-   ![00](p1.png)
-     ![111](p2.png)
+![00](p1.png)
+![111](p2.png)
 
 Although the process is quite painful and seems people didn't get the underlying meaning of our instruction set. We were happy because people like it, at least we brought happiness to them.
 
 Interview after Interaction 1
 
- ![1111](inter1.png)
 “ I pretty like it. It makes the park looks more gregeous.”
 
 “It’s kinds of low, I have to squatted down for shotting pics”
@@ -85,8 +86,7 @@ He also made some suggestion after we illustrated our idea to him
 “My suggestion is to make balloons in a bigger size, with more helim, so they will be much lighter than now.”
     
  
-   
-![1111](inter2.png)
+
 “My son loves it! Thank you so much. You made his day!”
 
 “Those fallen leaves are great idea. If there is only a bunch of balloons, it might be too ordinary”
@@ -139,15 +139,8 @@ idea 3:
         However, it still cannot being realized because I think our flourescent spray seems corrosive: when we use it, all ballons poped up.
 
     
-![1111](idea3.png.)
     
-at last, because we were running out of time, we have to give up all our ideas and just using color spray to do a painting in our ballons. Here is some pictures of our final prototype
-
- ![1111](333.jpg.)
- ![1111](444.jpg.)
- ![1111](555.jpg.)
- ![1111](666.jpg.)
- ![1111](777.jpg.)
+at last, because we were running out of time, we have to give up all our ideas and just using color spray to do a painting in our ballons. 
 
 My self-reflection:On-site is always having some differentiation with imagination, result would be much better if stick in one idea for three weeks.
 
