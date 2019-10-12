@@ -142,5 +142,5 @@ idea 3:
     
 at last, because we were running out of time, we have to give up all our ideas and just using color spray to do a painting in our ballons. 
 
-My self-reflection:On-site is always having some differentiation with imagination, result would be much better if stick in one idea for three weeks. Also, I learned a lot about how to deal with group work. I almost never had large group work project before, and I got lots of experiences this time. Group works is quite different individual work, communication is really the key to deliver a success work! 
+On-site is always having some differentiation with imagination, result would be much better if stick in one idea for three weeks. Also, I learned a lot about how to deal with group work. I almost never had large group work project before, and I got lots of experiences this time. Group works is quite different individual work, communication is really the key to deliver a success work! 
 
