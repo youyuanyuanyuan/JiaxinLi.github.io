@@ -60,6 +60,10 @@ Also, I am thinking of paying more attention to the feeling of death. At the tim
 
 The idea that receive praises is the one that “the interactive installation: to dissect a human brain”. I really like this idea and I think it would be quite practical and direct way to let people to face death. Dissecting is a quite professional and reliable way for people to experience death as the most of people accept a physical death could directly declare the ending of a person. Myself personally love the feeling of deconstruct things. I have been asked during the critique session that why I love dissection and what interested me about dissection? I never think of this question before, it just like a natural thing for me. I still don’t know if there are any other reasons for that. I will keep asking myself and trying to find out. This critique session really pushes me to another direction, which I think is a good thing: instead of considering people’s general thinking, consider more about myself and my personal idea more. That is the basics for doing further research.
 
+##7 in 7
+---
+
+
 
 
 
