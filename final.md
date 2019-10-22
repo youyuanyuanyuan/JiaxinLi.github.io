@@ -62,6 +62,16 @@ The idea that receive praises is the one that “the interactive installation: t
 
 ## 7 in 7
 
+Make seven discreet small-scale prototypes that address and build upon my research findings. Each day, a new prototype will be started and completed based on a particular question I have about my project. Each project must be conceptualized, produced and documented in a single day. I will  blog on the conceptualization, development and outcome of each of the seven projects, as well as my reflections on the experience of that day. 
+
+Day 1
+---
+###### Question
+###### Conceptualization
+###### Development
+###### Outcome
+###### Reflection
+
 
 
 
