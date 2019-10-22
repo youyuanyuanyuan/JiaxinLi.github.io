@@ -76,6 +76,90 @@ Make seven discreet small-scale prototypes that address and build upon my resear
 
 
 
+#### Day 2
+
+###### Question
+
+###### Conceptualization
+###### Development
+###### Outcome
+###### Reflection
+
+
+
+
+
+
+#### Day 3
+
+###### Question
+
+###### Conceptualization
+###### Development
+###### Outcome
+###### Reflection
+
+
+
+
+
+
+#### Day 4
+
+###### Question
+
+###### Conceptualization
+###### Development
+###### Outcome
+###### Reflection
+
+
+
+
+
+
+#### Day 5
+
+###### Question
+
+###### Conceptualization
+###### Development
+###### Outcome
+###### Reflection
+
+
+
+
+
+
+#### Day 6
+
+###### Question
+
+###### Conceptualization
+###### Development
+###### Outcome
+###### Reflection
+
+
+
+
+
+
+#### Day 7
+
+###### Question
+
+###### Conceptualization
+###### Development
+###### Outcome
+###### Reflection
+
+
+
+
+
+
 
 
 
