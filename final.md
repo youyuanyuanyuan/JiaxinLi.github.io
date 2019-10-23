@@ -67,10 +67,15 @@ Make seven discreet small-scale prototypes that address and build upon my resear
 #### Day 1
 
 ###### Question
-
+Does dissecting brain and getting to know more about what will happen to brain before death help people alleviate the featr towards death?
 ###### Conceptualization
+I 
 ###### Development
+I find a video that about a conversation between a neurologist doctor and his student, 
 ###### Outcome
+Here is the video I have made
+https://www.youtube.com/watch?v=-pTgiC3lb9k&feature=youtu.be
+
 ###### Reflection
 
 
