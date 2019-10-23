@@ -69,15 +69,16 @@ Make seven discreet small-scale prototypes that address and build upon my resear
 ###### Question
 Does dissecting brain and getting to know more about what will happen to brain before death help people alleviate the featr towards death?
 ###### Conceptualization
-I 
+I think to dissect brain is a good idea to do in order to alleviate people's fear and let them know more about death. I want the whole process could be professional and reliable; to provide a totally neutral and rational knowledge to people with no religions/ emotional bias, so it fits everybody, because it's just the fact. I want to let people know that our body is just like a machine, and every machine has it's own problem and time, it's a process that death happens to everything, not only people, there is nothing to be afraid of.
 ###### Development
-I find a video that about a conversation between a neurologist doctor and his student, 
+I find a video that about a conversation between a neurologist doctor and his student. The student's topic was about things related after death, but they also covered  things will happen to our brain 30s before people die. I find this part could be really useful to my project. Then I created a model of brain and colored every part of it and show the counterpart in color along with the audio to make my audio attached.(that I converted and edited from the video I mentioned before).
 ###### Outcome
-Here is the video I have made
-https://www.youtube.com/watch?v=-pTgiC3lb9k&feature=youtu.be
+
+
+[Here is the video I have made](https://www.youtube.com/watch?v=-pTgiC3lb9k&feature=youtu.be)
 
 ###### Reflection
-
+I do think the process of making this prototype teached me a lot, from aspects like terminologies of brain, the specific process of death and so on.I can not say that I totally understand what is death now, but I am confident to say that I know much more about that than before, and with that knowledge, I feel a sense of ahcievement which brings me more confident to face death. I showed this video to my friends and they think its helpful to alleviate their fear as well.
 
 
 
