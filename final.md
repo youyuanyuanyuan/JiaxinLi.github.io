@@ -89,9 +89,19 @@ Does everyone's death has same weight in people's mind? Do people think death is
 ###### Conceptualization
 I want to make a little interaction sets/ could be called a game for people doing anonymous choice. My concept is to have different roles: a group of figures who got completely different experience and traits, and a death （represent death), an angel(represent live). I want to include an instruction for people to make them make their choice, if they want the figure die, they can put death on that figure, else versa.
 ###### Development
+![process1](process1.JPG)
+![process2](process2.JPG)
+![process3](process3.JPG)
+![figure1](figure1.JPG)
+![figure2](figure2.JPG)
+![figure3](figure3.JPG)
+![figure4](figure4.JPG)
+![figure5](figure5.JPG)
 
 ###### Outcome
 Due to time limitation, I only got result from two people:
+![result1](result1.JPG)
+![result2](result2.JPG)
 
 ###### Reflection
 I think it's something could reach to the deep point of people's heart. Both people had a hard time to make their decision. They make the decision as hard as these figures are really existed. I am willing to see that, because that reflects there must be someone who are similar to these figures in these two participant's life. They made almost completely different choice. When I ask about the reason, one of them said he make choice by considering how many benefit can this figure brings to the society and the other participant let everyone live except killers and the painful senior, she said life will be better as long as people still alive, whatever how poor they are right now. 
