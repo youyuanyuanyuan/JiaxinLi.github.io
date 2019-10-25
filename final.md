@@ -126,7 +126,9 @@ I want to express what I have thinking into my prototype. I want to making a con
 
 ###### Outcome
 
-[Text to display](prototype 3 -1.mov)
+[For Eyes' death](https://youtu.be/RKzYABtu7Oc)
+[For water tape's death](https://youtu.be/nolhJMJFkN4)
+[For laptop's death](https://youtu.be/z44sVI_28AA)
 
 License: CC-BY
 
