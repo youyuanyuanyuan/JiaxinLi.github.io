@@ -134,11 +134,6 @@ I want to express what I have thinking into my prototype. I want to making a con
 
 [For laptop's death](https://youtu.be/z44sVI_28AA)
 
-License: CC-BY
-
- Pages 10
-video
-Clone this wiki locally
 
 
 ###### Reflection
