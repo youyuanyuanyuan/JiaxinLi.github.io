@@ -125,8 +125,8 @@ I begin to have the idea of what's the similarity would be : People living havin
 I want to express what I have thinking into my prototype. I want to making a contrast with the functioning moments and the not functioning moment.I think little videos could be a good way to illustrate it.
 
 ###### Outcome
-[![IMAGE ALT TEXT HERE](prototype 3 -1 )
-Referencing a bug by #bugID in your git commit links it to the slip. For example #1.
+[![IMAGE ALT TEXT HERE](prototype 3 -1.mov )
+
 
 License: CC-BY
 
