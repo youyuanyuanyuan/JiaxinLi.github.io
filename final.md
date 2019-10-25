@@ -114,12 +114,21 @@ I think it's something could reach to the deep point of people's heart. Both peo
 #### Day 3
 
 ###### Question
-
+Does everything has it's own death?
 ###### Conceptualization
+When I think more of death, I suddenly think about one question "does only living creatures have death?".To me, the answer is negative, I believe everything has it's own life to some extent, it might not like our death : "stop breathing" " heart stop beating" and so on, but there must be a way to show their death. What will be their own way to show it's death?
 ###### Development
-###### Outcome
-###### Reflection
+What could be count to the death of an object? Does every part of a living creature has it's own death that not totally related to the living creature itself? What's the similarities of these objects and elements' death and living creature's death ( especially, people's death)?
 
+I begin to have the idea of what's the similarity would be : People living having a lot of days, every day works well until one day, there is no more "another day". It could be the same for objects and elements: everytime it functions well, but there got to be one day, it's not working anymore. What impressed me is that it's a such tranquail process, it just simple, death is just a simple thing. 
+
+I want to express what I have thinking into my prototype. I want to making a contrast with the functioning moments and the not functioning moment.I think little videos could be a good way to illustrate it.
+
+###### Outcome
+
+
+###### Reflection
+I do think everything has it's own life, and I believe it is a practicle way to show their life and death.
 
 
 
