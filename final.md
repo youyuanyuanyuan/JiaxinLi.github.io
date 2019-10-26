@@ -155,9 +155,11 @@ After a while of thinking, I come up an idea. If there is a thing like "soul", d
 My idea is to making an instructional set. Let the participant stay alone in a small room (the soul), there is a wall with a lot of one side of string telephones (information sources). The other side of the string telephones connect to multiple people or other voice sources (like radios), keep sending information to the participant (a big range of information types, like somephone chatting with the particpants, radio plays music to the participant, someone reading newspaper and ask for the participant's opinions and so on.) The participants can only choose one cup a time so she/he would enjoying a period of really busy and fulfilling time. However, he/she will find out that all string telephones become blured and hard to hear, some of them stop asking his/her opinion...and there will be one string telephone stop working, immediately all of them stop working one by one.... Now, the only thing the participant can hear is silence, the only, everlasting core of the universe.
 ###### Outcome
 Due to the time limitation, I was not able to make a wall full of string telephones, here is one of string telephone I have made. 
+
 ![string telephone](stringtelephone.JPG)
 
-![Here is a rough concept illustration of the instruction set:](prototype4.JPG)
+Here is a rough concept illustration of the instruction set:
+![11](prototype4.JPG)
 
 ###### Reflection
 When I done the whole ideation process,the question first come into my mind is what is the information source that I want to give up if I have to choose one. What comes with it is that what is the most difficult one for me to give up. Although I know we as people cannot control that, but I believe these two could be interesting question to think about.
