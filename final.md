@@ -221,7 +221,8 @@ I think for this one, I may want to try to make a little animation or a little g
 
 ![Pic of figures](prototype7-1.JPG)
 
-![Video](prototype7-2.MOV)
+
+[Here is the video](https://youtu.be/YXycNaGB5x0)
 
 
 ###### Reflection
