@@ -171,11 +171,17 @@ When I done the whole ideation process,the question first come into my mind is w
 #### Day 5
 
 ###### Question
-
+What's the truth of death? What does "lost" feels like?
 ###### Conceptualization
+Some of people think death as something that causes "lost of everything". From this points on, I want to immitate this feeling of losing for people, so they can get a better idea of losing and try to getting used to it. 
 ###### Development
+To me, I think life is more of liking building an castle: we contributed our time and energy try to build a castle that as high as possible, some of us try to build it as high as possible, try to conquer other's height of castle; some of us just focus on the quality, try to build a castle that fits its own style. Death, is just like a nasty kid, who just get into your room and destroyed your castle when you have no idea where he came out. So I want to show this process.
 ###### Outcome
+Here is the video for "castle and nasty kid"
+
 ###### Reflection
+I interviewed the participant of the video. I never told him what I exactly want to do before taking the video.I just told him that I need him to build a castle by using these cups. So there was a question for him that what does he feel when I put down all the cups, he said there was one moment that he feels really sad, and he wants to beat me.
+I believe participant will feel deeper, more touchable feeling, if they spend more time and energy in building their castle. If I made the process harder, the outcome would be better.
 
 
 
