@@ -209,11 +209,16 @@ I can almost imagine what will it looks like in the real world. It formed a comp
 #### Day 7
 
 ###### Question
-
+How to alleviate people's anxiety about death? How to make people more cherish their life and not being afraid of death?
 ###### Conceptualization
+I want to make something to remind people that anxiety and fear of death doesn't bring you any benefit, it only make your quality of life decreases. Also, I want to make something that could make people realize this more directly and in a simple, easy understable way. 
 ###### Development
+I think for this one, I may want to try to make a little animation or a little game. The concept is to compare two different kinds of attitude towards death, and what these attitudes could change people's life. 
 ###### Outcome
+
+
 ###### Reflection
+Whatever the attitude you give to death, it will always follow you in a certain distance (in the video, it's the distance between my fingers). In the future, if I get an chance to improve this project, I would set different scenes for this concept.Or I am thinking of taking some videos by using real people in real world. Through that video, I want to show people doing their daily life with a death right after them. Some people looks scared and always look back to the death, some people just doing whatever they need to do and don't even look at death. In order to show how people's different attitudes towards death.
 
 
 
