@@ -179,6 +179,8 @@ To me, I think life is more of liking building an castle: we contributed our tim
 ###### Outcome
 Here is the video for "castle and nasty kid"
 
+[I'm an inline-style link](https://youtu.be/6QniUkz3xZM)
+
 ###### Reflection
 I interviewed the participant of the video. I never told him what I exactly want to do before taking the video.I just told him that I need him to build a castle by using these cups. So there was a question for him that what does he feel when I put down all the cups, he said there was one moment that he feels really sad, and he wants to beat me.
 I believe participant will feel deeper, more touchable feeling, if they spend more time and energy in building their castle. If I made the process harder, the outcome would be better.
