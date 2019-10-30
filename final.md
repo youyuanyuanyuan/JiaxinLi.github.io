@@ -177,9 +177,9 @@ Some of people think death as something that causes "lost of everything". From t
 ###### Development
 To me, I think life is more of liking building an castle: we contributed our time and energy try to build a castle that as high as possible, some of us try to build it as high as possible, try to conquer other's height of castle; some of us just focus on the quality, try to build a castle that fits its own style. Death, is just like a nasty kid, who just get into your room and destroyed your castle when you have no idea where he came out. So I want to show this process.
 ###### Outcome
-Here is the video for "castle and nasty kid"
 
-[I'm an inline-style link](https://youtu.be/6QniUkz3xZM)
+
+[Here is the video for "castle and nasty kid"](https://youtu.be/6QniUkz3xZM)
 
 ###### Reflection
 I interviewed the participant of the video. I never told him what I exactly want to do before taking the video.I just told him that I need him to build a castle by using these cups. So there was a question for him that what does he feel when I put down all the cups, he said there was one moment that he feels really sad, and he wants to beat me.
@@ -193,13 +193,15 @@ I believe participant will feel deeper, more touchable feeling, if they spend mo
 #### Day 6
 
 ###### Question
-
+What's the decomposition process of human body? What will body look like in different period of time? 
 ###### Conceptualization
+I know that our body is composed by lots of different elements. When we die, the speed of each part of our body decomposing and re-naturing is different. Although we die in a certain moment, different part of our body die in different moments. What's the exact process? How long will they take to die? I want to explore more about it.
 ###### Development
+I want to do an big installation set (immersive experiencing exhibition). Where people could chose to experience a certain part of their body's journey towards "death" or decomposition.
 ###### Outcome
+
 ###### Reflection
-
-
+I can almost imagine what will it looks like in the real world. It formed a completely self-consistent, closed re-nature circle, reflecting what really happens in the real world through decades into a little  immersive experiencing exhibition room in maybe, several minutes to be finished.I like what comes out, and I like the feeling of keep generating new thoughts related to this project and inserted them in to get a satisfying result.
 
 
 
