@@ -200,9 +200,12 @@ I know that our body is composed by lots of different elements. When we die, the
 I want to do an big installation set (immersive experiencing exhibition). Where people could chose to experience a certain part of their body's journey towards "death" or decomposition.
 ###### Outcome
 
+![Path](prototype6-1.JPG)
+
+![Map + rules](prototype6-2.JPG)
+
 ###### Reflection
 I can almost imagine what will it looks like in the real world. It formed a completely self-consistent, closed re-nature circle, reflecting what really happens in the real world through decades into a little  immersive experiencing exhibition room in maybe, several minutes to be finished.I like what comes out, and I like the feeling of keep generating new thoughts related to this project and inserted them in to get a satisfying result.
-
 
 
 
@@ -215,6 +218,10 @@ I want to make something to remind people that anxiety and fear of death doesn't
 ###### Development
 I think for this one, I may want to try to make a little animation or a little game. The concept is to compare two different kinds of attitude towards death, and what these attitudes could change people's life. 
 ###### Outcome
+
+![Pic of figures](prototype7-1.JPG)
+
+![Video](prototype7-2.MOV)
 
 
 ###### Reflection
