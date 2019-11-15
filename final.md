@@ -231,7 +231,7 @@ Whatever the attitude you give to death, it will always follow you in a certain 
 ## Moodboard
 
 
-![image](My Post.png)
+![image](My Post.jpg)
 
 
 
