@@ -228,6 +228,11 @@ I think for this one, I may want to try to make a little animation or a little g
 ###### Reflection
 Whatever the attitude you give to death, it will always follow you in a certain distance (in the video, it's the distance between my fingers). In the future, if I get an chance to improve this project, I would set different scenes for this concept.Or I am thinking of taking some videos by using real people in real world. Through that video, I want to show people doing their daily life with a death right after them. Some people looks scared and always look back to the death, some people just doing whatever they need to do and don't even look at death. In order to show how people's different attitudes towards death.
 
+## Moodboard
+
+
+![Path](MY Post.png)
+
 
 
 
