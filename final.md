@@ -245,21 +245,21 @@ Whatever the attitude you give to death, it will always follow you in a certain 
 
 ## Project Reflection
 
-a. What are the specific questions you are attempting to answer in your prototypes?
+A. What are the specific questions you are attempting to answer in your prototypes?
  - How to alleviate people's pain of losing loved ones
-b. What the three strengths of your project?
+B. What the three strengths of your project?
  - Natural feel
  - Lofty meaning but grounded effect
  - responsiveness
-c. What are the three most critical issues for your project?
+C. What are the three most critical issues for your project?
  - outter appearance
  - content of story
  - personal resonance
-d. What can you do to address these issues, and to solidify the strengths?
+D. What can you do to address these issues, and to solidify the strengths?
  - make the process more private in order to get participants empathy easier as they feel more safe by exploring such an confidential topic.
-e. What new questions do you have?
+E. What new questions do you have?
  - how to make participants realize all the inner meaning of this project without tell them directly?
-f. What questions need to be answered in order to create a proof of concept prototype?
+F. What questions need to be answered in order to create a proof of concept prototype?
  - does the participants think about their own experience by using this installation?
 
 
