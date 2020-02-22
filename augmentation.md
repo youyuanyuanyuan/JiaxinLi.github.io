@@ -4,9 +4,9 @@
 
 ** My intrepretation towards Augmentation **
 
-![Augmentation Sculpture -1 ](original.jpg)
+![Augmentation Sculpture -1 ](original.JPG)
 When I think about "Augmentation", the first thing comes into my mind is education. 
 
-![Augmentation Sculpture -2 ](filtered1.jpg)
-![Augmentation Sculpture -3 ](filtered2.jpg)
+![Augmentation Sculpture -2 ](filtered1.JPG)
+![Augmentation Sculpture -3 ](filtered2.JPG)
 
