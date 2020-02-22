@@ -15,4 +15,4 @@ This is a wearable sculture, you can easily fit it in any of your fingers and it
 
 ![Augmentation Sculpture -3 ](filtered2.JPG)
 
-Also, As you can easily move your finger to make the 
+Also, As you can easily move your finger to make the vertex point to wherever you want to point to, just like you can explore whatever area you want to. 
