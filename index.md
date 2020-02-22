@@ -13,5 +13,5 @@
 
 -[MS2 - Project: Future Wheel](futurewheel.md) 
 
--[MS2 - Project: Scenarios](Scenarios.md) 
+-[MS2 - Project: Scenarios](scenarios.md) 
 
