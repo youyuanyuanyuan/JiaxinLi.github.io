@@ -36,3 +36,24 @@ John found the king of their neighboring country really wants to kill him, but p
 
 Thanks god, the revolution went well. People still respect the king as he is decisive and courage to do this revolution and they love John for his legendary life.
 
+
+
+### 01/ Even Blushing 
+
+There is a world, everyone blushing at same rate and that brings some problem.  
+
+Kim is a fresh primary school student. She loves playing with her siblings  and don’t like write homework. 
+
+One Tuesday night, after another completely great playing time lasted for four hours. She thought to herself “ I don’t feel to finish the homework! I will just told a little lie to the teacher and it gonna be fine! “ With that thought, she went to sweet dreams. 
+
+Wednesday morning, the teacher Tony ask her “ Kim? why don’t you turn in your homework?” 
+Kim already being prepared “ I forget it at home, sir.” 
+Tony:”oh, really? you forget it at home?”
+Kim “ yes, I am sorry.”
+“ You are lying!” said Tony, “You are blushing! “
+
+Kim touched her cheek, it is hot. 
+
+“You may too little to know that…” Tony says, “ in our world, everyone blushing at the same level. If you lie, you embarrassed, you shy…. everyone could see that!” 
+
+“Sorry sir….” says little blushing Kim (this time because of embarrassing) “ Thank you for letting me know that… I will not lie to you again…” 
