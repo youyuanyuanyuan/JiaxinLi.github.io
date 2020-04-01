@@ -5,6 +5,10 @@ According to my observation and persional experience, certain group of people (i
 In different occasions, especially some important ones (like dating, business meetings,etc), if I dress wrong or different with others, I will feel so uncomfortable and could never fit in to people anymore.
 So I want to make a project to help people who are as low confident as me to dress correctly in order to improve confidence and social performance.
 
+# Research question:
+How can I help users choose proper outfit in order to reduce their social anxiety?
+
+
 # Target audience:
 People who are not confident of taking outfit and don't want to make mistake to lower their confidence.
 
