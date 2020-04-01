@@ -17,7 +17,8 @@ Help user dress properly thus boost their social performance and confidence.
 
 # Project overview:
 "properfect"
-An app where gives you specialized recommendation of outfits for different social occasions based on your traits.
+An app helps you choose wardrobe based on occasions.
+
 features include:
 - you can customize your gender, height and weight and some other basic information to get more personalized recommendations
 - go through your photo library to detect your sensitivity to temperature, making adjustment accordingly. Then you will not feel too hot/cold by wearing recommended outfits.
