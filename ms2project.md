@@ -24,12 +24,34 @@ features include:
 - go through your photo library to detect your sensitivity to temperature, making adjustment accordingly. Then you will not feel too hot/cold by wearing recommended outfits.
 - in Calendar page, a avator wearing the outfit you chose will be recorded at that day. You can write down some experience that outfit brings to you and you can always go back and check.
 
+
+
+----------------------------------------------
+Goals and approach:
+
+After having lots of ideas and thoughts going on, I realize I need to make sense of the mess. In order to rethink about what my goals are and what I want to accomplish, I used "3W" method by Abby Covert. By answering all these questions, I get a clearer mind.
+
+## Start with why
+-Why does this work need to be done?
+
+ I want I could use this work to help people with social anxiety feel safe in new environment. An inproper outfit may cause a deep hurt in their self confidence, I don't want to see that. 
+ 
+-Why is change needed? Why do those changes matter? Why should other people care?
+
+ Nothing similar in the market yet, it's a gap between social anxieties and daily life which have to be filled with in order to make people feel self-satisfied and confident. It would be a wonderful thing if everyone in the world being confident, isn't it?
+ 
+-Why hasn't this been tackled correctly?
+
+
+
+-Why will this time be different?
+
 ----------------------------------------------
 Research Phase:
 
 # personal outfit journal (experience with different outfit everyday):
 
-## DAY 1
+##  1
 
 ![First outfit](IMG_0440.jpg)
 
@@ -39,7 +61,7 @@ It was during summer vocation with a big sun, so I want to look energetic and co
 
 I thought I have made a great choice and I had a wonderful experience at that day. 
 
-## DAY 2
+##  2
 
 
 ![Second outfit](IMG_8953.jpg)
