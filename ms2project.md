@@ -42,9 +42,43 @@ After having lots of ideas and thoughts going on, I realize I need to make sense
  
 -Why hasn't this been tackled correctly?
 
+I guess there is no good amount of attention in this area. The problem is hard to be noticed, the reason I have realized this problem is because I am someone with social anxious myself.
 
+## What before how
 
--Why will this time be different?
+"We all know not to construct a building without a plan."
+
+-What are you trying to change? What is within your abilities?
+
+I am tring to change the way social anxieties perform themselves when they don't have enough confidence. I can help them choose right outfit and performance tips in order to perform better.
+
+-What do you know about the quality of what exists today? What further research will help you understand it?
+
+It only focus on a certain group of people, people who having social anxiety, but I am thinking that do poeple without social anxiety will feel the stress of social performance at certain times (even though not as strong as social anxieties). I plan doing online chatting interviews through reddit in different channels ---- "social anxiety" sub and "outfithelp" sub, to find out does only people with social anxietyies have this need or not. Also, to find out what can help them futher. 
+
+-What has been done before? What can you learn from those experiences? Has anyone succeeded or failed at this in the past?
+
+I didn't find any specific same project on the internet, but there are outfit recommendation based on weather/personal styles, etc, also there are projects which aim to help social anxieties. 
+
+## How and options
+
+"How is an ever-growing list of directions we could take while staying true to our reasons why."
+
+-How much time and effort will it take?
+
+I will use the rest of my semester to finish it.
+
+-How could the solution look and feel?
+
+I am thinking about an app/web project. It should provide users recommendation options,reasons and tips for their dressing. I want this experiece be warm-hearted and friendly, without judge and anything make sensitive (people with social anxiety usually sensitive) users feel unsafe or uncomfortable.
+
+-How will this be measured?
+
+Based on users' feedback.
+
+-How will we know if we've succeeded?
+
+Everyone had a good experience and provide a positive feedback? I will keep thinking this as I think it's not enough.
 
 ----------------------------------------------
 Research Phase:
